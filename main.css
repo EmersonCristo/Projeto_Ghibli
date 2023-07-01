@@ -40,7 +40,7 @@ header nav li a {
 
 header .container,
 section .container {
-    display: flex;
+    display: block;
     align-items: center;
     justify-content: space-between;
 }
